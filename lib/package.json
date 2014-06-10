@@ -1,0 +1,7 @@
+{
+  "name": "croatian-helper",
+  "description": "croatian letters and small dictionary encoded in utf8",
+  "dependencies" : {
+    "byline" : "4.1.x"
+  }
+}
